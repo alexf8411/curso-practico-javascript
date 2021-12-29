@@ -14,3 +14,10 @@ Curso Básico de JavaScript
 - 2° Implementar las formulas en JavaScript
 - 3° Crear funciones
 - 4° Integrar JavaScript con HTML
+
+## Taller 3: Porcentajes y descuentos
+
+- 1° definir las formulas
+- 2° Implementar las formulas en JavaScript
+- 3° Crear funciones
+- 4° Integrar JavaScript con HTML
